@@ -23,24 +23,34 @@ login local
 exit
 vlan 10
 name Voz
+exit
 vlan 20
 name Consultores
+exit
 vlan 30
 name Analistas
+exit
 vlan 40
 name RH
+exit
 vlan 50
 name Administração
+exit
 vlan 60
 name Finanças
+exit
 vlan 70
 name TI
+exit
 vlan 80
 name Recepção
+exit
 vlan 90
 name Qualidade
+exit
 vlan 100
 name Servidor/Router/Switchs/Wireless-Router
+exit
 vlan 99
 exit
 interface fastEthernet 0/1
